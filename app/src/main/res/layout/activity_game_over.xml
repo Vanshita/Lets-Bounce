@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_background_new" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="310dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="27dp"
+
+        android:gravity="center"
+        android:text="GAME OVER"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        tools:context=".GameOver" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_marginBottom="248dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginRight="144dp"
+        android:layout_marginTop="150dp"
+        android:textStyle="bold"
+        android:text="Your Score:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/points"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentLeft="@+id/textView1"
+        android:textStyle="bold"
+        android:text=""
+        android:textSize="25dp"/>
+
+
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="50dp"
+        android:text="New Game"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#6A6EA8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:onClick="goToTitleScreen"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/retry"
+        android:layout_alignRight="@+id/retry"
+        android:layout_below="@+id/retry"
+        android:layout_marginTop="46dp"
+        android:textStyle="bold"
+        android:text="Home"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#6A6EA8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:onClick="goToTitleScreen"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/player_large_hit.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/player_large_hit.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/platform_04.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platform_04.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/pink.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/pink.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/ic_action_search.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/player_larger.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/player_larger.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/platform_01.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platform_01.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/platform_03.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platform_03.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/sprite_platforms.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/sprite_platforms.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/platform_02.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platform_02.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/back.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/platform_05.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platform_05.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/game_background_new.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/game_background_new.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/icon.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi/player_small_hit.png",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/player_small_hit.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Nov 04 12:07:51 IST 2016
+base.0=/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8915fe6e8fa69d6e849ffed3ef24e814cc42dfb4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bf9e5d0440b4167ef1b8b5c0def90554abcfea5/classes.dex
+base.1=/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bf9e5d0440b4167ef1b8b5c0def90554abcfea5
+file.0=/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8915fe6e8fa69d6e849ffed3ef24e814cc42dfb4/classes.dex

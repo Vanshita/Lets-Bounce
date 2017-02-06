@@ -1,0 +1,129 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/game_background_new"
+    android:weightSum="1">
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:text="Lets Bounce"
+        android:layout_marginLeft="85dp"
+        android:gravity="top|center"
+        android:fontFamily="Arial"
+        android:textStyle="bold"
+        tools:context=".TitleScreen" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:text="Hello Player,set the ball speed"
+        android:fontFamily="Arial"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+   <SeekBar
+        android:id="@+id/setBallSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="28dp"
+        android:max="15" />
+       <!-- <Spinner
+        android:id="@+id/setBallSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/country_arrays"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentLeft="true"
+        />-->
+
+    <!--<TextView
+        android:id="@+id/textView2"
+        android:layout_width="265dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/setBallSpeed"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:text="Type your Name" />
+
+
+    <EditText
+        android:id="@+id/typedName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/setBallSpeed"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/textView2"
+        android:text=""
+        />-->
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/startGame"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="110dp"
+        android:onClick="startGame"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#6A6EA8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="Start Game" />
+
+    <!--<Button
+        android:id="@+id/goToResultsList"
+        android:layout_width="139dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/typedName"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:onClick="goToResultsList"
+        android:text="Score"
+        android:textStyle="bold" />-->
+
+    <Button
+
+        android:id="@+id/button1"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/typedName"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="110dp"
+        android:onClick="onDestroy"
+        android:text="Exit"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#6A6EA8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:textStyle="bold" />
+</LinearLayout>
+
+
+</LinearLayout>

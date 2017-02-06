@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/raw/sb_collisn.mp3",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/raw/sb_collisn.mp3"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/raw/click_collision.mp3",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/raw/click_collision.mp3"
+    }
+]

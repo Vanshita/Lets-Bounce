@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" >
+    <item name="android:divider">@drawable/divider</item>
+    <item name="android:dividerHeight">1px</item>
+    </style>
+</resources>

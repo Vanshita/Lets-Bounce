@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/player_platform.gif",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/player_platform.gif"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/divider.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/divider.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/platformbluelarger.gif",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platformbluelarger.gif"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/platformblue.gif",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/platformblue.gif"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ball.jpg",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/ball.jpg"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/buttonshape_new.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/buttonshape_new.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/release/drawable-hdpi-v4/buttonshape.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/drawable-hdpi/buttonshape.xml"
+    }
+]

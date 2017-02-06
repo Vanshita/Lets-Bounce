@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/menu/activity_title_screen.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/menu/activity_title_screen.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/menu/activity_menu.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/menu/activity_menu.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/menu/activity_results_list.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/menu/activity_results_list.xml"
+    },
+    {
+        "merged": "/home/vanshita/Desktop/bouncerGame-master2/app/build/intermediates/res/merged/debug/menu/activity_game_over.xml",
+        "source": "/home/vanshita/Desktop/bouncerGame-master2/app/src/main/res/menu/activity_game_over.xml"
+    }
+]
